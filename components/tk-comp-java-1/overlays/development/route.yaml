@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: tk-comp-java-1
     app.kubernetes.io/part-of: tk-test
-  name: tk-comp-java-1x1as
+  name: tk-comp-java-16ih2
 spec:
   port:
     targetPort: 8081
